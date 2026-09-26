@@ -1,2 +1,2 @@
 # Study-log
-recording my teachings
+Recording my learning journey.
